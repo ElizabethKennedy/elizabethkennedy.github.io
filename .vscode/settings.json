@@ -4,8 +4,12 @@
         "autoprefixer",
         "caniuse",
         "codepen",
+        "Cpath",
+        "Csvg",
         "downfacing",
         "eakennedy",
+        "fontawesome",
+        "formerize",
         "Giphy",
         "Giraudel",
         "hihat",
@@ -19,6 +23,9 @@
         "tink",
         "utilising",
         "vendorized",
-        "Vendorizes"
+        "Vendorizes",
+        "xlarge",
+        "xsmall",
+        "xxsmall"
     ]
 }
